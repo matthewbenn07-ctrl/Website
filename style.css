@@ -2,9 +2,12 @@
 <html>
 <head>
   <style>
+    body {
+      background-color: yellow;
+    }
     h1 {
       width: 400px;
-      font-family: Arial;
+      font-family: Arial, sans-serif;
       font-size: 20px;
       text-align: center;
       background-color: blue;
@@ -13,9 +16,6 @@
   </style>
 </head>
 <body> 
-body {
-  background-color:yellow;
-}
-
+  <h1>Matthews Website</h1>
 </body>
 </html>
