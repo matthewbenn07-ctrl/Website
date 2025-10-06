@@ -2,12 +2,14 @@
 <html>
 <head>
 </head>
-<body> {
+<body> 
+<h1> {
   width:400px;
   font-family:Arial;
   font-size:20;
   text-align:center;
   background-color:blue;
 }
+</h1>
 </body>
 </html>
