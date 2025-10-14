@@ -18,11 +18,8 @@ body {}
       background-color:light-gray;
     }
     h3 {
-      width:1350px;
-      background-color:blue;
-      color:white;
-      text-align:center;
-      margin-top: auto;
+      width:700px;
+      height:100px;
        }
     h4 {
       width:700px;
@@ -31,6 +28,10 @@ body {}
     h5 {
       width:600px;
       height:100px;
+      width:1350px;
+      background-color:blue;
+      color:white;
+      text-align:center;
       
     }
   </style>
